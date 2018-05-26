@@ -1,0 +1,1 @@
+Project to encrypt a string with repetetive carachters (latin alphabet) into an encoded format, e.g. "Hello. Good day. " > "Hel2o. Go2d day."
